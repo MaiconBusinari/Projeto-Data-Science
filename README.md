@@ -1,6 +1,6 @@
 # Projeto-Data-Science
 
-Aluno: Maicon : 13359444
+Aluno: Maicon : 13359444 </br>
 Aluno: 
 
 Projeto de aprendizado de maquina supervisionado utilizando três métodos;
